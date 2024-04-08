@@ -190,13 +190,13 @@ Avant d'installer et d'utiliser l'application, assurez-vous d'avoir les prérequ
 
 │  └──  images
 
-│  ├──  adaptive-icon.png
+│  ├──  adaptive-icon.PNG
 
-│  ├──  favicon.png
+│  ├──  favicon.PNG
 
-│  ├──  icon.png
+│  ├──  icon.PNG
 
-│  └──  splash.png
+│  └──  splash.PNG
 
 ├──  babel.config.js
 
@@ -276,62 +276,62 @@ Avant d'installer et d'utiliser l'application, assurez-vous d'avoir les prérequ
 
 Rédiger un rêve:
 
-![IMG_2410](assets/images/IMG_2410.png)
-![IMG_2412](assets/images/IMG_2412.png)
+![IMG_2410](assets/images/IMG_2410.PNG)
+![IMG_2412](assets/images/IMG_2412.PNG)
 
 Etiquettes personnalisables:
 
-![IMG_2411](assets/images/IMG_2411.png)
+![IMG_2411](assets/images/IMG_2411.PNG)
 
 Choix de la date du rêve:
 
-![IMG_2427](assets/images/IMG_2427.png)
+![IMG_2427](assets/images/IMG_2427.PNG)
 
 Rêve envoyé:
 
-![IMG_2413](assets/images/IMG_2413.png)
+![IMG_2413](assets/images/IMG_2413.PNG)
 
 Liste des rêves:
 
-![IMG_2414](assets/images/IMG_2414.png)
+![IMG_2414](assets/images/IMG_2414.PNG)
 
 Détails d'un rêve:
 
-![IMG_2422](assets/images/IMG_2422.png)
-![IMG_2429](assets/images/IMG_2429.png)
+![IMG_2422](assets/images/IMG_2422.PNG)
+![IMG_2429](assets/images/IMG_2429.PNG)
 
 Supression d'un rêve:
 
-![IMG_2430](assets/images/IMG_2430.png)
-![IMG_2431](assets/images/IMG_2431.png)
+![IMG_2430](assets/images/IMG_2430.PNG)
+![IMG_2431](assets/images/IMG_2431.PNG)
 
 Recherche par mot:
 
-![IMG_2415](assets/images/IMG_2415.png)
+![IMG_2415](assets/images/IMG_2415.PNG)
 
 Options de tri:
 
-![IMG_2418](assets/images/IMG_2418.png)
+![IMG_2418](assets/images/IMG_2418.PNG)
 
 Tri par date croissante:
 
-![IMG_2416](assets/images/IMG_2416.png)
+![IMG_2416](assets/images/IMG_2416.PNG)
 
 Tri par date décroissante:
 
-![IMG_2417](assets/images/IMG_2417.png)
+![IMG_2417](assets/images/IMG_2417.PNG)
 
 Documentation:
 
-![IMG_2419](assets/images/IMG_2419.png)
-![IMG_2420](assets/images/IMG_2420.png)
-![IMG_2421](assets/images/IMG_2421.png)
+![IMG_2419](assets/images/IMG_2419.PNG)
+![IMG_2420](assets/images/IMG_2420.PNG)
+![IMG_2421](assets/images/IMG_2421.PNG)
 
 Paramètres:
 
-![IMG_2423](assets/images/IMG_2423.png)
-![IMG_2425](assets/images/IMG_2425.png)
-![IMG_2424](assets/images/IMG_2424.png)
-![IMG_2426](assets/images/IMG_2426.png)
+![IMG_2423](assets/images/IMG_2423.PNG)
+![IMG_2425](assets/images/IMG_2425.PNG)
+![IMG_2424](assets/images/IMG_2424.PNG)
+![IMG_2426](assets/images/IMG_2426.PNG)
 
 
