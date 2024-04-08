@@ -252,24 +252,15 @@ Avant d'installer et d'utiliser l'application, assurez-vous d'avoir les prérequ
 
   
 
-| File | Summary |
-
-| --- | --- |
-
+| File                                                                                       | Summary                                    |
+| ---                                                                                        | ---                                        |
 | [API_CONFIG.js](https://github.com/aaminesbai/DreamsApp/blob/master/API_CONFIG.js) | HTTP error 429 for prompt `API_CONFIG.js` |
-
 | [**/constants**](https://github.com/aaminesbai/DreamsApp/blob/constants/) |  Ce dossier contient uniquement le fichier /Colors.ts qui contient les mélanges de couleurs qui seront utilisés pour styliser nos pages. |
-
 | [**/components** :](https://github.com/aaminesbai/DreamsApp/blob/master/components/) | Ce dossier contient tous nos composants TSX utilisés dans les pages, ainsi que des fichiers TypeScript contenant des fonctions utilisées pour le style ou pour le serveur. |
-
 | [**/components/_tests_/** ](https://github.com/aaminesbai/DreamsApp/blob/master/components/_tests_/) | Ce dossier contient tout ce qui est lié aux tests. |
-
 | [**/assets** :](https://github.com/aaminesbai/DreamsApp/blob/master/assets/) | Ce dossier contient les ressources statiques utilisées dans l'application. |
-
 | [**/app**](https://github.com/aaminesbai/DreamsApp/blob/master/app/) | Ce dossier contient les pages principales de l'application. |
-
 | [**/app/(tabs)**](https://github.com/aaminesbai/DreamsApp/blob/master/assets/images/) | Ce dossier contient essentiellement les pages de l'application. index.tsx est la première page et two.tsx est la seconde. layout.tsx est la barre de navigation inférieure. |
-
 | [**/app/**](https://github.com/aaminesbai/DreamsApp/blob/master/app/) | Il contient d'autres pages qui ne sont pas les "pages principales" référencées dans la barre de navigation, telles que les modèles ou la page "introuvable". Il contient également des fichiers spécifiques au web et un fichier qui traite du modèle de mise en page dans ./(tabs). |
 
  ## Screenshots
