@@ -265,60 +265,60 @@ Avant d'installer et d'utiliser l'application, assurez-vous d'avoir les prérequ
 
  ## Screenshots
 
-Rédiger un rêve:
+### Rédiger un rêve:
 
 ![IMG_2410](assets/images/IMG_2410.PNG)
 ![IMG_2412](assets/images/IMG_2412.PNG)
 
-Etiquettes personnalisables:
+### Etiquettes personnalisables:
 
 ![IMG_2411](assets/images/IMG_2411.PNG)
 
-Choix de la date du rêve:
+### Choix de la date du rêve:
 
 ![IMG_2427](assets/images/IMG_2427.PNG)
 
-Rêve envoyé:
+### Rêve envoyé:
 
 ![IMG_2413](assets/images/IMG_2413.PNG)
 
-Liste des rêves:
+### Liste des rêves:
 
 ![IMG_2414](assets/images/IMG_2414.PNG)
 
-Détails d'un rêve:
+### Détails d'un rêve:
 
 ![IMG_2422](assets/images/IMG_2422.PNG)
 ![IMG_2429](assets/images/IMG_2429.PNG)
 
-Supression d'un rêve:
+### Supression d'un rêve:
 
 ![IMG_2430](assets/images/IMG_2430.PNG)
 ![IMG_2431](assets/images/IMG_2431.PNG)
 
-Recherche par mot:
+### Recherche par mot:
 
 ![IMG_2415](assets/images/IMG_2415.PNG)
 
-Options de tri:
+### Options de tri:
 
 ![IMG_2418](assets/images/IMG_2418.PNG)
 
-Tri par date croissante:
+### Tri par date croissante:
 
 ![IMG_2416](assets/images/IMG_2416.PNG)
 
-Tri par date décroissante:
+### Tri par date décroissante:
 
 ![IMG_2417](assets/images/IMG_2417.PNG)
 
-Documentation:
+### Documentation:
 
 ![IMG_2419](assets/images/IMG_2419.PNG)
 ![IMG_2420](assets/images/IMG_2420.PNG)
 ![IMG_2421](assets/images/IMG_2421.PNG)
 
-Paramètres:
+### Paramètres:
 
 ![IMG_2423](assets/images/IMG_2423.PNG)
 ![IMG_2425](assets/images/IMG_2425.PNG)
